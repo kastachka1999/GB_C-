@@ -131,3 +131,5 @@ $РЕЦИКЛ.БИН /
 .DS_Store
 
 _NCrunch *
+    bin
+    obj
